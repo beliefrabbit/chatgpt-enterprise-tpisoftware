@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
             </h1>
             
             <p className="text-lg sm:text-xl text-gray-600 mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-              結合 ChatGPT Enterprise 的強大能力與昕力資訊的專業顧問服務，打造安全、高效的企業智腦。
+              ChatGPT Enterprise 的強大能力與昕力資訊的專業顧問服務，<br />打造專屬您的企業超級AI助理
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start space-y-4 sm:space-y-0 sm:space-x-4">

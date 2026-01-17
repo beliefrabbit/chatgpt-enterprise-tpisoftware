@@ -11,7 +11,7 @@ export const VALUE_PROPS = [
   {
     id: 1,
     title: '資安承諾',
-    description: '企業級的隱私防護，對話數據不落地，確保您的商業機密與客戶資料絕對安全無虞。',
+    description: '企業級的隱私防護，確保您的商業機密與客戶資料絕對安全無虞。',
     subtext: '絕不使用您的資料進行訓練',
     icon: <ShieldCheck className="w-8 h-8 text-tpi" />,
     colSpan: 'md:col-span-1',
@@ -19,7 +19,7 @@ export const VALUE_PROPS = [
   {
     id: 2,
     title: '數據價值',
-    description: '透過強大的 Advanced Data Analysis，串聯破碎的企業數據，將冷資料轉化為可執行的商業洞察。',
+    description: '串聯破碎的企業數據，將冷資料轉化為可執行的商業洞察。',
     subtext: '打破資料孤島，釋放價值',
     icon: <Database className="w-8 h-8 text-tpi-light" />,
     colSpan: 'md:col-span-1',
@@ -78,7 +78,7 @@ export const USE_CASES = [
     name: '工程',
     title: '全方位加速開發流程',
     description: '將 ChatGPT 連接至您的存放庫，以快速探索新程式庫、找出關鍵待改善區域，加快功能開發速度。將程式編寫任務交由 AI 處理，負責產生、除錯及改善程式碼，進而縮短開發周期，加快編碼速度。',
-    image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=600&fit=crop&q=80',
   },
   {
     id: 'marketing',
@@ -127,6 +127,6 @@ export const USE_CASES = [
     name: '銷售',
     title: '提升銷售效能與客戶關係',
     description: '快速生成個性化的銷售提案、客戶郵件和簡報內容。分析客戶需求、優化溝通策略，並協助準備會議資料，讓業務團隊更專注於建立關係。',
-    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&h=600&fit=crop&q=80',
   },
 ];
