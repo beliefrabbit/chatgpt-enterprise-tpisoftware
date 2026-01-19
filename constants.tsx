@@ -19,7 +19,7 @@ export const VALUE_PROPS = [
   {
     id: 2,
     title: '數據價值',
-    description: '串聯破碎的企業數據，將冷資料轉化為可執行的商業洞察。',
+    description: '串聯破碎的企業數據，將資料轉化為可執行的商業洞察。',
     subtext: '打破資料孤島，釋放價值',
     icon: <Database className="w-8 h-8 text-tpi-light" />,
     colSpan: 'md:col-span-1',
